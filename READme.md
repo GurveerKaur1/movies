@@ -4,7 +4,4 @@ This is
 
 ### Demo
 
-Click [here]( https://gurveerkaur1.github.io/Alarm-Clock/) to check.
-
-
-
+Click [here](https://github.com/GurveerKaur1/movies.git) to check.
