@@ -4,4 +4,4 @@ This is
 
 ### Demo
 
-Click [here](https://github.com/GurveerKaur1/movies) to check.
+Click [here](https://gurveerkaur1.github.io/GurveerKaur1/movies) to check.
